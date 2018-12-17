@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e26c74</color>
+    <color name="colorPrimaryDark">#e26c74</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="colorGray">#8c8989</color>
+
+    <!--좌석 현황 색상-->
+    <color name="colorFullSeat">#e26c74</color>
+    <color name="colorEmptySeat">#eeaaaf</color>
+    <color name="colorNormalSeat">#afabab</color>
+    <color name="colorSmothPink">#fceeef</color>
+    <color name="colorReservatedSeat">#e2e8b2</color>
+
+
+</resources>
